@@ -1,1 +1,0 @@
-const key = "AIzaSyDZxaZ18RK0lFVXxiwrmNfrn5i-TWUDgS0";
